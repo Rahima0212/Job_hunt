@@ -26,7 +26,7 @@ A Streamlit web app that uses Machine Learning and Conversational AI to intellig
 
 
 
-```bash
+
 pip install -r requirements.txt
 
 
