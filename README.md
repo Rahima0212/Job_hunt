@@ -14,7 +14,7 @@ A Streamlit web app that uses Machine Learning and Conversational AI to intellig
 - 📁 CSV data input and model persistence
 
 ---
-
+```bash
 ├── app.py                 # Streamlit app
 ├── model.py               # ML logic (TF-IDF, clustering)
 ├── scrape.py              # Web scraper for job listings
@@ -24,10 +24,10 @@ A Streamlit web app that uses Machine Learning and Conversational AI to intellig
 │   └── model.pkl / vectorizer.pkl # Saved ML models
 
 
----
+
 
 ```bash
 pip install -r requirements.txt
 
----
+
 
