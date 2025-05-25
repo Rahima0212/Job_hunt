@@ -15,6 +15,19 @@ A Streamlit web app that uses Machine Learning and Conversational AI to intellig
 
 ---
 
+├── app.py                 # Streamlit app
+├── model.py               # ML logic (TF-IDF, clustering)
+├── scrape.py              # Web scraper for job listings
+├── data/
+│   ├── jobs.csv           # Raw job data (required for app startup)
+│   ├── jobs_clustered.csv # Output file after clustering
+│   └── model.pkl / vectorizer.pkl # Saved ML models
+
+
+---
 
 ```bash
 pip install -r requirements.txt
+
+---
+
