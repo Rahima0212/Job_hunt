@@ -1,0 +1,13 @@
+Title,Company,Location,Experience,Skills,Summary
+Data Analyst,ABC Corp,Kochi,2 Years,"Python, SQL, Excel","Analyze and report on financial data"
+ML Engineer,XYZ Ltd,Trivandrum,3 Years,"Python, TensorFlow, Machine Learning","Build ML models for healthcare"
+BI Developer,DataSys,Calicut,4 Years,"Power BI, SQL, ETL","Develop dashboards and data pipelines"
+Software Engineer,TechNest,Kochi,1 Year,"Java, Spring, Git","Backend services and REST API development"
+Data Scientist,InfoVerse,Bangalore,5 Years,"Python, Pandas, Machine Learning","Predictive modeling and data exploration"
+
+Title,Company,Location,Experience,Skills,Summary
+AI Researcher,InnovaAI,Kochi,2 Years,"Python, PyTorch, Deep Learning","Research on generative AI models"
+Frontend Developer,WebCraft,Trivandrum,1 Year,"HTML, CSS, JavaScript","Develop responsive web interfaces"
+DevOps Engineer,SysFlow,Calicut,3 Years,"Docker, Kubernetes, CI/CD","Automate cloud deployment pipelines"
+QA Analyst,TestLab,Kochi,2 Years,"Selenium, Python, Automation Testing","Ensure application quality through tests"
+Business Analyst,InsightPlus,Trivandrum,3 Years,"Excel, Tableau, SQL","Analyze and present business data insights"
